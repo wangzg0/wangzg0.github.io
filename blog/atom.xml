@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangzg0.github.io/blog</id>
-    <title>个人学习总结 Blog</title>
+    <title>王志刚的博客 Blog</title>
     <updated>2020-04-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangzg0.github.io/blog"/>
-    <subtitle>个人学习总结 Blog</subtitle>
+    <subtitle>王志刚的博客 Blog</subtitle>
     <icon>https://wangzg0.github.io/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Blog Plugin]]></title>
-        <id>Blog Plugin</id>
-        <link href="https://wangzg0.github.io/blog/2020/04/14/blog-plugin"/>
-        <updated>2020-04-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You can use our blog plugin to do your posts]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[A large blog post]]></title>
         <id>A large blog post</id>
         <link href="https://wangzg0.github.io/blog/2020/04/14/large-blog-post"/>
         <updated>2020-04-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello, this is an example]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog Plugin]]></title>
+        <id>Blog Plugin</id>
+        <link href="https://wangzg0.github.io/blog/2020/04/14/blog-plugin"/>
+        <updated>2020-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can use our blog plugin to do your posts]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
